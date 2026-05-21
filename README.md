@@ -62,6 +62,34 @@ UNH RideShare is a Flutter-based mobile application that allows users to registe
 
 ---
 
+## 👥 Team A5 Roles & Contributions
+
+* **Indrani Adivi** — *Backend Development, System Integration, & UI Refinement*
+  * **Core Backend:** Designed and implemented server-side logic and database architecture.
+  * **Integration:** Served as the core bridge connecting frontend UI components seamlessly with backend infrastructure.
+  * **UI Polishing:** Resolved layout inconsistencies and performed front-facing corrections to optimize user workflows.
+
+* **Ruchitha** — *Scrum Master & Backend Development*
+  * **Agile Leadership:** Managed sprint planning, task delegation, backlog grooming, and daily standups to maintain timeline velocity.
+  * **Backend Engineering:** Developed core database operations and processing workflows alongside the backend squad.
+
+* **Vamsi** — *DevOps, Deployment, & Backend Development*
+  * **Deployment Pipeline:** Managed application lifecycles, hosting setups, and environment configuration profiles.
+  * **Backend Engineering:** Engineered robust database structures and application processing logic.
+
+* **Alvin** — *Frontend UI Development & Scrum Support*
+  * **UI/UX Engineering:** Developed responsive mobile layouts and user-facing interactive elements.
+  * **Agile Facilitation:** Alternated responsibilities as Scrum Master to assist with project tracking and team coordination.
+
+* **Quang** — *Frontend UI Development & Creative Design*
+  * **UI Engineering:** Designed and built clean, modular, and intuitive mobile interfaces.
+  * **Presentation Assets:** Authored and designed the official project research poster for the UNH Undergraduate Research Conference (URC).
+
+* **Rakesh** — *Full-Stack Engineering (UI & Backend)*
+  * **Cross-Functional Support:** Contributed across the stack, balancing user interface integration with database processing logic.
+
+---
+
 ## How to Run  
 
 ### Prerequisites  
