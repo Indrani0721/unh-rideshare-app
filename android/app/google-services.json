@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "652273195634",
+    "project_id": "unh-rideshare-app",
+    "storage_bucket": "unh-rideshare-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652273195634:android:f556ecbc026fdfc92f80eb",
+        "android_client_info": {
+          "package_name": "com.example.unh_rideshare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652273195634-qhht9q5giqkdrvpbvr9ep8ln51vle7ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unh_rideshare_app",
+            "certificate_hash": "a500b9db1f9eb4e39695805169b4504ff0d79859"
+          }
+        },
+        {
+          "client_id": "652273195634-t1396d1rlsog28ueod1i207luk3a6ga1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unh_rideshare_app",
+            "certificate_hash": "8135c1cbe187e2e56a482885782ab071d0b925aa"
+          }
+        },
+        {
+          "client_id": "652273195634-ahpg78p7ittvc4fi8kuqkgo48u7dpaoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGpyZORfDswfDZ0oiENCcGhnw0fpHFOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652273195634-ahpg78p7ittvc4fi8kuqkgo48u7dpaoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652273195634-4vfhrt4eliuif97lb4281schbeij3c3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unh.afive.rideshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
