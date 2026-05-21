@@ -64,10 +64,12 @@ UNH RideShare is a Flutter-based mobile application that allows users to registe
 
 ## 👥 Team A5 Roles & Contributions
 
-* **Indrani Adivi** — *Backend Development, System Integration, & UI Refinement*
+* **Indrani Adivi** — *Backend Development, System Integration, Scrum support & UI Refinement*
   * **Core Backend:** Designed and implemented server-side logic and database architecture.
   * **Integration:** Served as the core bridge connecting frontend UI components seamlessly with backend infrastructure.
+  * **Agile Leadership:** Managed sprint planning, task delegation, and weekly scrum meetings, time logging.
   * **UI Polishing:** Resolved layout inconsistencies and performed front-facing corrections to optimize user workflows.
+ 
 
 * **Ruchitha** — *Scrum Master & Backend Development*
   * **Agile Leadership:** Managed sprint planning, task delegation, backlog grooming, and daily standups to maintain timeline velocity.
